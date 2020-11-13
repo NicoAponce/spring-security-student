@@ -1,1 +1,1 @@
-package project.spring.securitystudent.entity;import lombok.*;@Getter@Setter@AllArgsConstructor@NoArgsConstructor@Builderpublic class Student {    private Integer id;    private String name;}
+package project.spring.securitystudent.entity;import lombok.*;@Getter@Setter@AllArgsConstructor@NoArgsConstructor@Builder@ToStringpublic class Student {    private Integer id;    private String name;}
